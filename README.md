@@ -1,8 +1,2 @@
-# flutter_basic_layout
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# FlutterListUtility
+Simple Flutter demo application with using List widget and perform add and remove selected items from list.
